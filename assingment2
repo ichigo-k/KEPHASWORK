@@ -1,0 +1,17 @@
+user_details={}
+#NAME
+userinput = input("enter a name\n")
+user_details["name"]=userinput
+#AGE
+userinput = input("enter age \n")
+user_details["age"]=userinput
+#CLASS
+userinput = input("enter a class \n")
+user_details["class"]=userinput
+#GENDER
+userinput = input("enter a gender \n")
+user_details["gender"]=userinput
+#TELEPHONE
+userinput = input("enter telephone number \n")
+user_details["telephone"]=userinput
+
